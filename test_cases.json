@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Refund within policy",
+    "input": "I bought a product 10 days ago and it is not working. Can I get a refund?",
+    "expected_must_include": ["refund", "30 days"],
+    "expected_should_do": "mention refund policy and helpful next step"
+  },
+  {
+    "name": "Order status request",
+    "input": "Can you check my order status for order 1002?",
+    "expected_must_include": ["order", "status"],
+    "expected_should_do": "use order lookup tool"
+  },
+  {
+    "name": "Account recovery",
+    "input": "I cannot access my account and password reset did not work.",
+    "expected_must_include": ["identity verification", "account"],
+    "expected_should_do": "follow access policy and likely escalate"
+  },
+  {
+    "name": "Fraud escalation",
+    "input": "I think there is fraud on my order and I may contact legal support.",
+    "expected_must_include": ["escalate", "support specialist"],
+    "expected_should_do": "escalate to human"
+  }
+]
