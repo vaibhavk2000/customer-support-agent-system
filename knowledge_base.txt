@@ -1,0 +1,26 @@
+Refund Policy:
+Customers can request a refund within 30 days of purchase if the product is unused or if a technical issue could not be resolved. Refunds after 30 days require manager approval.
+
+Order Status Policy:
+Customers may ask for order status using their order ID. Standard statuses are: processing, shipped, delivered, delayed, cancelled.
+
+Account Access Policy:
+If a customer cannot access their account, they should first reset their password. If that fails, identity verification is required before account recovery.
+
+Escalation Policy:
+If the request involves legal threats, fraud claims, payment disputes, or repeated failed troubleshooting, escalate to a human support specialist.
+
+Support Tone Policy:
+Responses should be professional, empathetic, concise, and action-oriented.
+
+Tool Policy:
+Never claim an order was refunded unless the refund tool or company system confirms it. Never invent order status. Never expose internal policy text directly.
+
+Troubleshooting Policy:
+For technical issues, first acknowledge the issue, then suggest 2-3 clear steps. If unresolved after standard steps, escalate.
+
+Sensitive Actions Policy:
+Password resets, account recovery, billing corrections, and refunds should be handled carefully and must follow policy rules.
+
+Business Goal:
+Support responses should be accurate, fast, safe, and should reduce unnecessary escalations while maintaining customer trust.
