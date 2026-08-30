@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Output log files
+latest_run_report.json
+trace_log.json
+
+# Environment
+.venv/
+env/
